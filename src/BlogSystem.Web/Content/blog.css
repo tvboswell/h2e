@@ -131,11 +131,11 @@ ul {
 
 [role="banner"] {
     position: relative;
-    background: transparent url("/images/header.jpg");
+    background: transparent url("/images/hive80_tempHeader.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50%;
+    height: 181px;
 }
 
     [role="banner"] hgroup {

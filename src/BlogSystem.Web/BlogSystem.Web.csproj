@@ -315,7 +315,10 @@
     <Content Include="connections.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-2.2.3.intellisense.js" />
+    <Content Include="images\blog_logo.jpg" />
     <Content Include="images\header.jpg" />
+    <Content Include="images\hive80_tempHeader.jpg" />
+    <Content Include="images\hive80_tempHeader.png" />
     <Content Include="images\old-header.jpg" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\blog.js" />
